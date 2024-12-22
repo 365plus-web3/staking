@@ -1,5 +1,5 @@
 {
-  "name": "staking",
+  "name": "@staking/project",
   "private": true,
   "scripts": {
     "build": "turbo build",
